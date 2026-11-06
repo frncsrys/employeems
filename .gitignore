@@ -1,0 +1,29 @@
+# NetBeans
+/build/
+/nbproject/private/
+/nbproject/genfiles.properties
+/nbbuild/
+/nbdist/
+.nb-gradle/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Java crash logs
+hs_err_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
